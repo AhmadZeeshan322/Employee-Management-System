@@ -180,6 +180,7 @@ Person
 
 ---
 
+This project is being developed as part of my DevOps learning.
 ## Quick Reference Table
 
 | OOP Concept | Location | Key Element |
@@ -195,3 +196,5 @@ Person
 | Static Members | `Person.cs`, `Employee.cs`, `Program.cs` | `totalPersons`, `totalEmp`, `employees[]` |
 | Const / Readonly | `Person.cs` | `companyName` (const), `personId` (readonly) |
 | Aggregation | `Program.cs` | `Employee[] employees` array |
+
+
