@@ -27,3 +27,6 @@ jobs:
 
       - name: Build application
         run: dotnet build --no-restore
+
+      - name: Build Docker image
+        run: docker build -t ems-app .
